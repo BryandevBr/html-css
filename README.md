@@ -4,4 +4,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
- <a href="https://bryandevbr.github.io/html-css/">
+ <a href="https://bryandevbr.github.io/html-css/exercicios/ex001/index.html">
