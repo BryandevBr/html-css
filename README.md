@@ -16,8 +16,6 @@
 
 <a href="https://bryandevbr.github.io/desafios/d005/index.html">Desafio 5</a> 
 
-<br>
-
 <a href="https://bryandevbr.github.io/desafios/d006/index.html">Desafio 6</a>
 
 <a href="https://bryandevbr.github.io/desafios/d007/index.html">Desafio 7</a>
@@ -51,8 +49,6 @@
 <a href="https://bryandevbr.github.io/exercicios/ex010/index.html">Exercício 10</a>
 
 <a href="https://bryandevbr.github.io/exercicios/ex011/index.html">Exercício 11</a>
-
-<br>
 
 <a href="https://bryandevbr.github.io/exercicios/ex012/index.html">Exercício 12</a>
 
