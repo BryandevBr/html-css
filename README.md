@@ -4,15 +4,7 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>Desafios</h1>
+<h1>Desafios</h1>
 
 <a href="https://bryandevbr.github.io/desafios/d001/index.html">Desafio 1</a>
 
@@ -22,7 +14,9 @@
 
 <a href="https://bryandevbr.github.io/desafios/d004/index.html">Desafio 4</a>
 
-<a href="https://bryandevbr.github.io/desafios/d005/index.html">Desafio 5</a>
+<a href="https://bryandevbr.github.io/desafios/d005/index.html">Desafio 5</a> 
+
+<br>
 
 <a href="https://bryandevbr.github.io/desafios/d006/index.html">Desafio 6</a>
 
@@ -58,6 +52,8 @@
 
 <a href="https://bryandevbr.github.io/exercicios/ex011/index.html">Exercício 11</a>
 
+<br>
+
 <a href="https://bryandevbr.github.io/exercicios/ex012/index.html">Exercício 12</a>
 
 <a href="https://bryandevbr.github.io/exercicios/ex013/index.html">Exercício 13</a>
@@ -79,8 +75,4 @@
 <a href="https://bryandevbr.github.io/exercicios/ex021/index.html">Exercício 21</a>
 
 <a href="https://bryandevbr.github.io/exercicios/ex022/index.html">Exercício 22</a>
-
-
-</body>
-</html>
  
