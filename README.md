@@ -73,3 +73,5 @@
 <a href="https://bryandevbr.github.io/html-css/exercicios/ex021/index.html">Exercício 21</a>
 
 <a href="https://bryandevbr.github.io/html-css/exercicios/ex022/index.html">Exercício 22</a>
+
+<a href="https://bryandevbr.github.io/html-css/exercicios/ex022/index.html">Exercício 23</a>
