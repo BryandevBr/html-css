@@ -28,6 +28,11 @@
 
 <a href="https://bryandevbr.github.io/html-css/desafios/d010/index.html">Desafio 10</a>
 
+<a href="https://bryandevbr.github.io/html-css/desafios/d011/index.html">Desafio 11</a>
+
+<a href="https://bryandevbr.github.io/html-css/desafios/d012/index.html">Desafio 12</a>
+
+
 <h1>Exercícios</h1>
 
 <a href="https://bryandevbr.github.io/html-css/exercicios/ex001/index.html">Exercício 1</a>
