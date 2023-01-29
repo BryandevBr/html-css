@@ -79,4 +79,4 @@
 
 <a href="https://bryandevbr.github.io/html-css/exercicios/ex022/index.html">Exercício 22</a>
 
-<a href="https://bryandevbr.github.io/html-css/exercicios/ex022/index.html">Exercício 23</a>
+<a href="https://bryandevbr.github.io/html-css/exercicios/ex023/index.html">Exercício 23</a>
