@@ -32,6 +32,9 @@
 
 <a href="https://bryandevbr.github.io/html-css/desafios/d012/index.html">Desafio 12</a>
 
+<a href="https://bryandevbr.github.io/html-css/desafios/d013/index.html">Desafio 13</a>
+
+
 
 <h1>Exercícios</h1>
 
