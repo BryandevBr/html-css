@@ -14,12 +14,16 @@
         }
         td, th {
             border: 1px solid black;
+            padding: 5px;
         }
         th.cabeca {
             background-color: gray;
         }
-        th.body {
+        tr.body {
             background-color: lightgray;
+        }
+        td.num {
+            text-align: center;
         }
     </style>
     <title>Tabelas</title>
@@ -66,7 +70,7 @@
             </tr>
             <tr>
                 <th class="body" colspan="4" scope="row">Média de Exatas</th>
-                <td class="num">0.0</td>
+                <td class="num body">0.0</td>
             </tr>
             <tr>
                 <th rowspan="2" scope="rowgroup">Humanas</th>
@@ -83,7 +87,7 @@
             </tr>
             <tr>
                 <th class="body" colspan="4" scope="row">Média de Humanas</th>
-                <td class="num">0.0</td>
+                <td class="num body">0.0</td>
             </tr>
         </tbody>
     </table>
